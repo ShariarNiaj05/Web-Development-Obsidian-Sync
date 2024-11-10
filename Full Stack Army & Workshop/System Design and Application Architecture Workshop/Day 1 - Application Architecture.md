@@ -16,52 +16,62 @@ An application architecture is a structural map of how a software application is
 - Tight Coupling
 
 > Advantage & Disadvantage
+> ![[Pasted image 20241110165206.png]]
 
-![[Pasted image 20241110165206.png]]
+
 
 >Suitable For
+>![[Pasted image 20241110165505.png]]
 
-![[Pasted image 20241110165505.png]]
+
 
 ### 2 Tier Architecture
 
 ![[Pasted image 20241110165735.png]]
 
 > Advantage & Disadvantage
-![[Pasted image 20241110170057.png]]
+> ![[Pasted image 20241110170057.png]]
+> ![[Pasted image 20241110170224.png]]
 
-![[Pasted image 20241110170224.png]]
 
->Suitable For
-![[Pasted image 20241110170427.png]]
+
+>Suitable For ![[Pasted image 20241110170427.png]]
+
+
 
 
 ### N or 3 Tier Architecture
 ![[Pasted image 20241110170710.png]]
 
-> Key Characteristics
 
 > Advantage & Disadvantage
-![[Pasted image 20241110181212.png]]
-![[Pasted image 20241110181416.png]]
+> ![[Pasted image 20241110181212.png]]
+> ![[Pasted image 20241110181416.png]]
 
->Suitable For
 
-![[Pasted image 20241110181430.png]]
+
+>Suitable For ![[Pasted image 20241110181430.png]]
+
+
 
 
 ### Modular Monolithic Architecture
 ![[Pasted image 20241110181557.png]]
 
-> Key Characteristics
-![[Pasted image 20241110181739.png]]
+> Key Characteristics 
+> ![[Pasted image 20241110181739.png]]
+> 
 
 
-> Advantage & Disadvantage
-![[Pasted image 20241110182150.png]]
 
->Suitable For
-![[Pasted image 20241110182652.png]]
+
+> Advantage & Disadvantage 
+> ![[Pasted image 20241110182150.png]]
+
+
+
+>Suitable For ![[Pasted image 20241110182652.png]]
+
 
 ### Microservice Architecture
 ![[Pasted image 20241110182921.png]]
