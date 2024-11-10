@@ -139,11 +139,7 @@ An application architecture is a structural map of how a software application is
 >![[Pasted image 20241110210733.png]]
 
 
+##  How to choose perfect Architecture?
 
-### Monolithic Architecture
-> Key Characteristics
 
-> Advantage & Disadvantage
-
->Suitable For
 
