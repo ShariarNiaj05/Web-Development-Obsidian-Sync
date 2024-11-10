@@ -91,9 +91,15 @@ An application architecture is a structural map of how a software application is
 ### Event Driven Architecture
 ![[Pasted image 20241110185236.png]]
 
-> Key Characteristics
+
+> Key Elements
+> ![[Pasted image 20241110185815.png]]
+
 
 > Advantage & Disadvantage
+> ![[Pasted image 20241110185841.png]]
+
+
 
 >Suitable For
 
