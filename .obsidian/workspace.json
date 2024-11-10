@@ -26,6 +26,7 @@
           {
             "id": "d5f3e1c4beb339fb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -33,11 +34,13 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Day 1 - Application Architecture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2ea0e718485743a",
+  "active": "d5f3e1c4beb339fb",
   "lastOpenFiles": [
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Application requirement.png",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 1 - Application Architecture.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
     "Day 1- Application Architecture.md",
