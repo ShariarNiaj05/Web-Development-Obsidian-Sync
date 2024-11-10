@@ -150,12 +150,12 @@ The easiest solution is
 
 ## What if I want to make a wise decision?
 
-| Project Requirements | Team Expertise     | Budget      | Timeline           |
-| -------------------- | ------------------ | ----------- | ------------------ |
-| Complexity           | Team Experience    | Development | Respected Deadline |
-| Scalability          | Required Skill Set | Deployment  |                    |
-| Performance          |                    |             |                    |
-| Maintainability      |                    |             |                    |
-| Security             |                    |             |                    |
-| Change Frequency     |                    |             |                    |
+| **Project Requirements** | **Team Expertise** | **Budget**  | **Timeline**       |
+| ------------------------ | ------------------ | ----------- | ------------------ |
+| Complexity               | Team Experience    | Development | Respected Deadline |
+| Scalability              | Required Skill Set | Deployment  |                    |
+| Performance              |                    |             |                    |
+| Maintainability          |                    |             |                    |
+| Security                 |                    |             |                    |
+| Change Frequency         |                    |             |                    |
 ![[Pasted image 20241110211708.png]]
