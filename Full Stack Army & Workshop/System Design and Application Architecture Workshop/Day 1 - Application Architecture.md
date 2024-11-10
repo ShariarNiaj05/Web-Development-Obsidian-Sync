@@ -36,6 +36,14 @@ An application architecture is a structural map of how a software application is
 ![[Pasted image 20241110170427.png]]
 
 
+### N or 3 Tier Architecture
+![[Pasted image 20241110170710.png]]
+
+> Key Characteristics
+
+> Advantage & Disadvantage
+
+>Suitable For
 
 
 
