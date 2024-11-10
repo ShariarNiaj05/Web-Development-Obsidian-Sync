@@ -202,11 +202,13 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "d5f3e1c4beb339fb",
   "lastOpenFiles": [
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110163930.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Application requirement.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 1 - Application Architecture.md",
