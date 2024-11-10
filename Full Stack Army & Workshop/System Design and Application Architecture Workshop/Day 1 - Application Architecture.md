@@ -143,5 +143,7 @@ An application architecture is a structural map of how a software application is
 
 ![[Pasted image 20241110210943.png]]
 
+The easiest solution is 
+===Start with monolithic / modular monolithic===
 
 ![[Pasted image 20241110211231.png]]
