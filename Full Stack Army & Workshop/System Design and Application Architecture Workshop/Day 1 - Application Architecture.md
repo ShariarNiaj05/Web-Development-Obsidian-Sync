@@ -122,7 +122,8 @@ An application architecture is a structural map of how a software application is
 
  See the cloud native  landscape: https://landscape.cncf.io/
 
-### Serverless Architecture
+### Server less Architecture
+![[Pasted image 20241110193412.png]]
 
 > Key Characteristics
 
