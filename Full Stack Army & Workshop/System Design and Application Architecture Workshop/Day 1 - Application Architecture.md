@@ -42,9 +42,12 @@ An application architecture is a structural map of how a software application is
 > Key Characteristics
 
 > Advantage & Disadvantage
+![[Pasted image 20241110181212.png]]
+![[Pasted image 20241110181416.png]]
 
 >Suitable For
 
+![[Pasted image 20241110181430.png]]
 
 
 
