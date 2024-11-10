@@ -8,3 +8,10 @@ An application architecture is a structural map of how a software application is
 
 ### Monolithic Architecture
 ![[Pasted image 20241110164249.png]]
+
+> Key Characteristics
+- Single Codebase
+- Centralized deployment
+- Shared Database
+- Tight Coupling
+
