@@ -136,6 +136,9 @@ An application architecture is a structural map of how a software application is
 
 
 >Suitable For
+>![[Pasted image 20241110210733.png]]
+
+
 
 ### Monolithic Architecture
 > Key Characteristics
