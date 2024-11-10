@@ -22,3 +22,5 @@ An application architecture is a structural map of how a software application is
 >Suitable For
 
 ![[Pasted image 20241110165505.png]]
+
+### 2 Tier Architecture
