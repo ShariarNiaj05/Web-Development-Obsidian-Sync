@@ -38,9 +38,23 @@
               "icon": "lucide-file",
               "title": "Day 1 - Application Architecture"
             }
+          },
+          {
+            "id": "c853bb6b8c361062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 1 - Application Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 1 - Application Architecture"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,21 +220,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e47a55e4403f5bf",
+  "active": "c853bb6b8c361062",
   "lastOpenFiles": [
+    "Pasted image 20241110184953.png",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 1 - Application Architecture.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110183900.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110183453.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110182921.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110182652.png",
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 1 - Application Architecture.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110182150.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110181739.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110181557.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110170710.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110181430.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110181416.png",
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets/Pasted image 20241110181212.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Assets",
     "Day 1- Application Architecture.md",
     "Full Stack Army & Workshop/Full Stack Army & Workshop Notes.md",
