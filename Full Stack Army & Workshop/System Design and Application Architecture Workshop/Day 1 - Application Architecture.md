@@ -104,6 +104,8 @@ An application architecture is a structural map of how a software application is
 >![[Pasted image 20241110190756.png]]
 
 ### Cloud Native Architecture
+![[Pasted image 20241110190928.png]]
+
 
 > Key Characteristics
 
