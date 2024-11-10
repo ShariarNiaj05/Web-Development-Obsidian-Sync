@@ -120,6 +120,7 @@ An application architecture is a structural map of how a software application is
 >![[Pasted image 20241110192931.png]]
 >
 
+ See the cloud native  landscape: https://landscape.cncf.io/
  
 
 ### Monolithic Architecture
