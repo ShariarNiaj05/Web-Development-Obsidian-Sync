@@ -15,3 +15,6 @@ An application architecture is a structural map of how a software application is
 - Shared Database
 - Tight Coupling
 
+> Advantage & Disadvantage
+
+![[Pasted image 20241110165206.png]]
