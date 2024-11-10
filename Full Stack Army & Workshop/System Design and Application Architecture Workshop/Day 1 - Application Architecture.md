@@ -159,3 +159,7 @@ The easiest solution is
 | Security                 |                    |             |                    |
 | Change Frequency         |                    |             |                    |
 ![[Pasted image 20241110211708.png]]
+
+## Comparison table to make a quick decision for choosing **Application Architecture**
+![[Pasted image 20241110212158.png]]
+
