@@ -147,3 +147,14 @@ The easiest solution is
 ===Start with monolithic / modular monolithic===
 
 ![[Pasted image 20241110211231.png]]
+
+## What if I want to make a wise decision?
+
+| Project Requirements | Team Expertise     | Budget      | Timeline           |
+| -------------------- | ------------------ | ----------- | ------------------ |
+| Complexity           | Team Experience    | Development | Respected Deadline |
+| Scalability          | Required Skill Set | Deployment  |                    |
+| Performance          |                    |             |                    |
+| Maintainability      |                    |             |                    |
+| Security             |                    |             |                    |
+| Change Frequency     |                    |             |                    |
