@@ -63,6 +63,15 @@ An application architecture is a structural map of how a software application is
 >Suitable For
 ![[Pasted image 20241110182652.png]]
 
+### Microservice Architecture
+
+> Key Characteristics
+
+> Advantage & Disadvantage
+
+>Suitable For
+
+
 ### Monolithic Architecture
 > Key Characteristics
 
