@@ -141,5 +141,6 @@ An application architecture is a structural map of how a software application is
 
 ##  How to choose perfect Architecture?
 
+![[Pasted image 20241110210943.png]]
 
 
