@@ -158,3 +158,4 @@ The easiest solution is
 | Maintainability      |                    |             |                    |
 | Security             |                    |             |                    |
 | Change Frequency     |                    |             |                    |
+![[Pasted image 20241110211708.png]]
