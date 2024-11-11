@@ -40,3 +40,8 @@ There are only three
 
  ==Note: We should always try to avoid building queues when designing a new system or find where the queue building in an existing system==
 
+## Performance Principal
+
+1. Efficiency 
+2. Concurrency 
+3. Capacity 
