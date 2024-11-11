@@ -73,3 +73,5 @@ There are only three
 ## Additional Consideration
 ![[Pasted image 20241111192519.png]]
 
+## Serial Request Latency
+
