@@ -29,3 +29,9 @@
 
 
 ![[Pasted image 20241111182303.png]]
+
+
+## What are the root causes for application performance drop?
+
+There are only three
+/
