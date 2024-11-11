@@ -67,4 +67,5 @@ There are only three
 3.  Errors ![[Pasted image 20241111191121.png]]
 4. Resource saturation  ![[Pasted image 20241111191312.png]]
 
- 
+## What is Tail Latency?
+![[Pasted image 20241111192103.png]]
