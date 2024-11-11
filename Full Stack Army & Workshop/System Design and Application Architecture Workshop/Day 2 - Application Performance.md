@@ -45,4 +45,5 @@ There are only three
 1. Efficiency 
 2. Concurrency 
 3. Capacity 
+![[Pasted image 20241111184404.png]]
 
