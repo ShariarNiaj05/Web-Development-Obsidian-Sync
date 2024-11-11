@@ -84,3 +84,5 @@ There are two type of connections
 ![[Pasted image 20241111193220.png]]
 
 ## TLS Handshake
+![[Pasted image 20241111212310.png]]
+
