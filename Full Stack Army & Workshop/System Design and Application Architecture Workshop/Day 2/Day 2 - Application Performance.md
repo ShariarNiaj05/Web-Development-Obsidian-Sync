@@ -79,5 +79,8 @@ There are two type of connections
 - Intranet (private)
 ==Intranet is a much reliable connection and faster==
 
+## TCP Handshake
+
 ![[Pasted image 20241111193220.png]]
 
+## TLS Handshake
