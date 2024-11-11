@@ -14,3 +14,8 @@
 ![[Pasted image 20241111171107.png]]
 
 ![[Pasted image 20241111171751.png]]
+
+![[Pasted image 20241111180109.png]]
+
+
+## Where does a QUEUE can build-up?
