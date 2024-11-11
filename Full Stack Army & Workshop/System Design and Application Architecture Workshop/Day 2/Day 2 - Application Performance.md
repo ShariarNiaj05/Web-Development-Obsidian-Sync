@@ -69,3 +69,7 @@ There are only three
 
 ## What is Tail Latency?
 ![[Pasted image 20241111192103.png]]
+
+## Additional Consideration
+![[Pasted image 20241111192519.png]]
+
