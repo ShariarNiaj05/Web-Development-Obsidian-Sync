@@ -1,0 +1,1 @@
+We optimize the application performance to make our client happy.
