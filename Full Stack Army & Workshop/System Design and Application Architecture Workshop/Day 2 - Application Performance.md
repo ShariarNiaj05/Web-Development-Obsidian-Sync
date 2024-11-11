@@ -34,4 +34,6 @@
 ## What are the root causes for application performance drop?
 
 There are only three
-/
+1. Inefficient Slow Processing ![[Pasted image 20241111182709.png]]
+2. 
+3. 
