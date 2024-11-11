@@ -74,4 +74,7 @@ There are only three
 ![[Pasted image 20241111192519.png]]
 
 ## Serial Request Latency
-
+There are two type of connections
+- Internet (public)
+- Intranet (private)
+==Intranet is a much reliable connection and faster==
