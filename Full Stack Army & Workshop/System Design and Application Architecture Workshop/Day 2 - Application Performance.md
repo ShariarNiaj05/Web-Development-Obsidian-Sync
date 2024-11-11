@@ -19,3 +19,4 @@
 
 
 ## Where does a QUEUE can build-up?
+![[Pasted image 20241111181119.png]]
