@@ -88,3 +88,4 @@ There are two type of connections
 
 ![[Pasted image 20241111212421.png]]
 
+![[Pasted image 20241111212659.png]]
