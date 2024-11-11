@@ -36,5 +36,6 @@
 There are only three
 1. Inefficient Slow Processing ![[Pasted image 20241111182709.png]]
 2. Serial resources Access ![[Pasted image 20241111182746.png]]
-3. 
-4. 
+3. Limited resource capacity ![[Pasted image 20241111182845.png]]
+
+ 
