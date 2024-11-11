@@ -65,4 +65,6 @@ There are only three
 1. Latency ![[Pasted image 20241111190501.png]]
 2.  Throughput ![[Pasted image 20241111190746.png]]
 3.  Errors ![[Pasted image 20241111191121.png]]
-4. Resource saturation
+4. Resource saturation  ![[Pasted image 20241111191312.png]]
+
+ 
