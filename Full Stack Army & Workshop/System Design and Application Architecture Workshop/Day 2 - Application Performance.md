@@ -38,4 +38,5 @@ There are only three
 2. Serial resources Access ![[Pasted image 20241111182746.png]]
 3. Limited resource capacity ![[Pasted image 20241111182845.png]]
 
+ ==Note: We should always try to avoid building queues when designing a new system or find where the queue building in an existing system==
  
