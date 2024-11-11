@@ -5,3 +5,6 @@
 
 ![[Pasted image 20241111154533.png]]
 
+
+## How to spot a Performance Problem?
+
