@@ -8,3 +8,5 @@
 
 ## How to spot a Performance Problem?
 
+![[Pasted image 20241111154807.png]]
+
