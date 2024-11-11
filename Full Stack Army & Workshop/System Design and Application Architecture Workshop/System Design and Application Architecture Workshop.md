@@ -6,3 +6,7 @@
 
 [[Day 2 - Application Performance]] ==> https://www.youtube.com/watch?v=qUGfEYRpSqU&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=2
 
+
+[[Day 3.1 - Application Scalability]] ==> https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3
+
+
