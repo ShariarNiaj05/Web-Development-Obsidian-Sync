@@ -48,3 +48,5 @@ There are only three
 ![[Pasted image 20241111184404.png]]
 
 
+![[Pasted image 20241111184742.png]]
+
