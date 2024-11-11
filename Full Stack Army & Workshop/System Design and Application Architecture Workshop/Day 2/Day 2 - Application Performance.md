@@ -53,3 +53,10 @@ There are only three
 ![[Pasted image 20241111185010.png]]
 
 ![[Pasted image 20241111185035.png]]
+
+## System Performance Objectives
+
+![[Pasted image 20241111185711.png]]
+
+![[Pasted image 20241111185718.png]]
+
