@@ -3,6 +3,7 @@ We optimize the application performance to make our client happy.
 
 ## [00:08:04](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=484s) Performance vs scaling 
 ![[Pasted image 20241112164826.png]]
+==Performance increases the user experience==
 
 
 ## [00:12:35](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=755s) Vertical Scaling 
