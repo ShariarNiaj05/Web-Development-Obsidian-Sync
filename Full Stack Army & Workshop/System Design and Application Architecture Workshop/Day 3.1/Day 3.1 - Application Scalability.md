@@ -6,6 +6,9 @@ We optimize the application performance to make our client happy.
 ==Performance increases the user experience==
 ==Scalability Increases the business==
 
+## There are two types  of scaling
+- Vertical
+- Horizontal
 
 ## [00:12:35](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=755s) Vertical Scaling 
 ## [00:14:55](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=895s) Pros of vertical scaling 
