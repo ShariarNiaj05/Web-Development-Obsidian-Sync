@@ -29,6 +29,7 @@ We optimize the application performance to make our client happy.
 ## [00:19:31](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=1171s) We still have problems
 Can't increase after curtain scale.
 ## [00:21:29](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=1289s) Cons of vertical scaling 
+![[Pasted image 20241112180907.png]]
 ## [00:24:40](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=1480s) When to use vertical scaling?
 
 [00:26:56](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=1616s) Horizontal scaling
