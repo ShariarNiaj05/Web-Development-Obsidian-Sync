@@ -38,21 +38,9 @@
               "icon": "lucide-file",
               "title": "Day 3.1 - Application Scalability"
             }
-          },
-          {
-            "id": "eef6cd93b255b22f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113190700.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241113190700"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +206,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e47a55e4403f5bf",
+  "active": "fd252e662246a0d4",
   "lastOpenFiles": [
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 - Application Scalability.md",
+    "Pasted image 20241113190743.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113190700.png",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 - Application Scalability.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113190537.png",
     "Web Development.md",
     "Full Stack Army & Workshop/Full Stack Army & Workshop Notes.md",
