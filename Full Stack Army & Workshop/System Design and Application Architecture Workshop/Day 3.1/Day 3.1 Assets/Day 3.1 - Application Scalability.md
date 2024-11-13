@@ -81,6 +81,8 @@ Can't increase after curtain scale.
 ![[Pasted image 20241113184632.png]]
 
 ## [01:10:31](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4231s) Key aspects of decentralization
+
+![[Pasted image 20241113184833.png]]
 ## [01:11:50](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4310s) Advantages of decentralization
 ## [01:13:54](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4434s) Independence
 ## [01:15:18](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4518s) Key Aspects of Independence
