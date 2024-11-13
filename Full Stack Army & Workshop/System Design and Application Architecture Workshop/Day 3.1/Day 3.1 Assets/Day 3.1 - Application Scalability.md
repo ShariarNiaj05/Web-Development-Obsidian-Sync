@@ -11,6 +11,7 @@ We optimize the application performance to make our client happy.
 - Horizontal
 
 ## [00:12:35](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=755s) Vertical Scaling 
+
 ![[Pasted image 20241112165354.png]]
 
 ## [00:14:55](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=895s) Pros of vertical scaling 
@@ -72,6 +73,9 @@ Can't increase after curtain scale.
 ![[Pasted image 20241113183809.png]]
 
 ## [01:06:23](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=3983s) Scalability Principles
+
+![[Pasted image 20241113184516.png]]
+
 ## [01:07:49](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4069s) Decentralization
 ## [01:10:31](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4231s) Key aspects of decentralization
 ## [01:11:50](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4310s) Advantages of decentralization
