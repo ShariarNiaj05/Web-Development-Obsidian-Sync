@@ -113,6 +113,7 @@ Can't increase after curtain scale.
 
 ## [01:33:13](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=5593s) Use Cases
 ![[Pasted image 20241113212141.png]]
+![[Pasted image 20241113212248.png]]
 
 ## [01:39:59](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=5999s) HLB vs SLB
 ## [01:44:49](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=6289s) Reverse Proxy
