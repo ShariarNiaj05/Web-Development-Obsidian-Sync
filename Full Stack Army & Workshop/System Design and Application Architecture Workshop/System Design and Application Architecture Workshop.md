@@ -10,3 +10,4 @@
 [[Day 3.1 - Application Scalability]] ==> https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3
 
 
+[[Day 3.2 - Application Scalability]] ==> https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4
