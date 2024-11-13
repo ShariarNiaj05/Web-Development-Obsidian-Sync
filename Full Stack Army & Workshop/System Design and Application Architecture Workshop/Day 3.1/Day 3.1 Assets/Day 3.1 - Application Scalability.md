@@ -86,6 +86,9 @@ Can't increase after curtain scale.
 ## [01:11:50](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4310s) Advantages of decentralization
 ![[Pasted image 20241113185126.png]]
 ## [01:13:54](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4434s) Independence
+
+![[Pasted image 20241113185150.png]]
+
 ## [01:15:18](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4518s) Key Aspects of Independence
 ## [01:17:07](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4627s) Advantages of Independence
 ## [01:18:12](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4692s) Scalable Architecture Starts with Modularity
