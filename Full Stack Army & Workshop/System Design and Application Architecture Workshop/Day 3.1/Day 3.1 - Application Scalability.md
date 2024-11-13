@@ -45,6 +45,8 @@ Can't increase after curtain scale.
 ## [00:33:29](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=2009s) How to achieve Horizontal scaling
 
 ![[Pasted image 20241113163331.png]]
+![[Pasted image 20241113181523.png]]
+
 
 ![[Pasted image 20241113163932.png]]
 
