@@ -68,6 +68,7 @@ Can't increase after curtain scale.
 
 
 ## [00:57:22](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=3442s) When to use Horizontal scaling
+
 ![[Pasted image 20241113183809.png]]
 
 ## [01:06:23](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=3983s) Scalability Principles
