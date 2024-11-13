@@ -40,6 +40,8 @@ Can't increase after curtain scale.
 ![[Pasted image 20241112181548.png]]
 
 ## [00:31:18](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=1878s) Pros of Horizontal scaling
+![[Pasted image 20241113163114.png]]
+
 ## [00:33:29](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=2009s) How to achieve Horizontal scaling
 ## [00:53:49](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=3229s) Cons of Horizontal scaling
 ## [00:57:22](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=3442s) When to use Horizontal scaling
