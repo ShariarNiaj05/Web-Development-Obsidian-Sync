@@ -137,5 +137,6 @@ Can't increase after curtain scale.
 ![[Pasted image 20241113215343.png]]
 
 ## [02:06:03](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7563s) Use Cases of API Gateway
+![[Pasted image 20241113215444.png]]
 
 ## [02:11:00](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7860s) Popular API Gateways
