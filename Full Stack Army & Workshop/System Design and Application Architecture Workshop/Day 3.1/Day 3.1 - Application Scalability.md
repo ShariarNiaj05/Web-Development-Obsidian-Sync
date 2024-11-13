@@ -123,6 +123,7 @@ Can't increase after curtain scale.
 
 ## [01:48:56](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=6536s) Use Cases of Reverse Proxy
 ![[Pasted image 20241113213343.png]]
+![[Pasted image 20241113213921.png]]
 
 ## [01:57:11](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7031s) Load Balancer vs Reverse Proxy
  
