@@ -93,6 +93,9 @@ Can't increase after curtain scale.
 ![[Pasted image 20241113190537.png]]
 
 ## [01:17:07](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4627s) Advantages of Independence
+
+![[Pasted image 20241113190700.png]]
+
 ## [01:18:12](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4692s) Scalable Architecture Starts with Modularity
 ## [01:22:50](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4970s) Load Balancer
 ## [01:25:24](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=5124s) Key Functions
