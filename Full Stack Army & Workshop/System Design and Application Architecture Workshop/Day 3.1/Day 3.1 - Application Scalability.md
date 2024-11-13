@@ -99,10 +99,10 @@ Can't increase after curtain scale.
 ## [01:18:12](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4692s) Scalable Architecture Starts with 
 
 ![[Pasted image 20241113190743.png]]
-![[Pasted image 20241113191159.png]]
+
+![[Pasted image 20241113190813.png]]
+
 ## [01:22:50](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=4970s) Load Balancer
-
-
 
 
 ## [01:25:24](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=5124s) Key Functions
