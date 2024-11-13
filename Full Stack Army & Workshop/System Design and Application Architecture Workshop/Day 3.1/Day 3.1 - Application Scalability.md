@@ -127,8 +127,10 @@ Can't increase after curtain scale.
 
 ## [01:57:11](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7031s) Load Balancer vs Reverse Proxy
  ![[Pasted image 20241113214307.png]]
- 
+
+
 ## [02:02:31](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7351s) API Gateway
+
 
 ## [02:04:38](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7478s) Main Features of API Gateway
 
