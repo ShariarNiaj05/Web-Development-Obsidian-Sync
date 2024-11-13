@@ -64,7 +64,7 @@ Can't increase after curtain scale.
 
 ![[Pasted image 20241113183311.png]]
 
-==When you break something into pieces, you're introducing new challenges and complexities==
+==When you break something into pieces, you're introducing new challenges and complexities. But Unfortunately we don't have any options left without this to make the application scalable and profitable==
 
 
 ## [00:57:22](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=3442s) When to use Horizontal scaling
