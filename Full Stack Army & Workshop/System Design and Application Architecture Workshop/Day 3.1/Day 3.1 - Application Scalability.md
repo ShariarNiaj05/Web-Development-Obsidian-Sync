@@ -119,6 +119,7 @@ Can't increase after curtain scale.
 ![[Pasted image 20241113212644.png]]
 
 ## [01:44:49](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=6289s) Reverse Proxy
+![[Pasted image 20241113213034.png]]
 
 ## [01:48:56](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=6536s) Use Cases of Reverse Proxy
 
