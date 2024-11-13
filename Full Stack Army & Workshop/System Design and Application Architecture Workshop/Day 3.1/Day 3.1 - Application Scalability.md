@@ -142,3 +142,4 @@ Can't increase after curtain scale.
 ![[Pasted image 20241113215821.png]]
 
 ## [02:11:00](https://www.youtube.com/watch?v=eiredWOHn3o&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=3&t=7860s) Popular API Gateways
+![[Pasted image 20241113215830.png]]
