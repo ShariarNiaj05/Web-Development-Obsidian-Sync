@@ -38,9 +38,21 @@
               "icon": "lucide-file",
               "title": "Day 3.1 - Application Scalability"
             }
+          },
+          {
+            "id": "eef6cd93b255b22f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113190700.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241113190700"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,15 +218,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd252e662246a0d4",
+  "active": "4e47a55e4403f5bf",
   "lastOpenFiles": [
-    "Pasted image 20241113190700.png",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 - Application Scalability.md",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113190700.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113190537.png",
     "Web Development.md",
     "Full Stack Army & Workshop/Full Stack Army & Workshop Notes.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113185150.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 - Application Scalability.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 2/Day 2 - Application Performance.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113185126.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113184833.png",
@@ -223,7 +235,6 @@
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113183809.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113183311.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113182404.png",
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets/Pasted image 20241113182213.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 Assets",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 1/Day 1 - Application Architecture.md",
