@@ -218,8 +218,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "4e47a55e4403f5bf",
