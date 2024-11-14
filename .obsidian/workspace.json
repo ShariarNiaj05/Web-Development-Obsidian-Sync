@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,10 +222,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd252e662246a0d4",
+  "active": "27cdc8b3a9d88338",
   "lastOpenFiles": [
-    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
+    "Pasted image 20241114205232.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 - Application Scalability.md",
+    "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.2/Day 3.2 - Application Scalability.md",
     "Untitled.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.2/Day 3.2 Assets",
