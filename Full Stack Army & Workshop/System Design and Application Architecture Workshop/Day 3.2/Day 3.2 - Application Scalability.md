@@ -43,4 +43,5 @@
 
 ## [00:33:00](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1980s) Master Master (Peer to Peer)
 
+![[Pasted image 20241115062845.png]]
 
