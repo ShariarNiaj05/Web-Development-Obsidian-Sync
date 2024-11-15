@@ -11,3 +11,6 @@
 
 
 [[Day 3.2 - Application Scalability]] ==> https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4
+
+
+[[Day 4 - Microservice Architecture]]  ==>
