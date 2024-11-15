@@ -7,6 +7,8 @@
 ![[Pasted image 20241115055918.png]]
 
 ## [00:07:07](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=427s) Components
+![[Pasted image 20241115060212.png]]
+
 ## [00:09:11](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=551s) Stateless Replication
 ## [00:13:06](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=786s) Stateful Replication
 ## [00:14:48](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=888s) Stateful Replication - Web Application
