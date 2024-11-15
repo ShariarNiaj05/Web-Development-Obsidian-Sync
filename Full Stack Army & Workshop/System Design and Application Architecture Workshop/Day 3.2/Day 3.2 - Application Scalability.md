@@ -23,6 +23,8 @@
 
 ![[Pasted image 20241115061235.png]]
 
+![[Pasted image 20241115061639.png]]
+
 ## [00:20:08](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1208s) Stateful Replication - Sticky Session
 
 ## [00:22:17](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1337s) Stateful Replication - Session Cluster
