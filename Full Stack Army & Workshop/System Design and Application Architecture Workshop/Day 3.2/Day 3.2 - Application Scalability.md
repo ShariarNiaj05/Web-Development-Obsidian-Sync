@@ -16,6 +16,8 @@
 ![[Pasted image 20241115061106.png]]
 
 ## [00:14:48](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=888s) Stateful Replication - Web Application
+![[Pasted image 20241115061235.png]]
+
 ## [00:20:08](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1208s) Stateful Replication - Sticky Session
 ## [00:22:17](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1337s) Stateful Replication - Session Cluster
 ## [00:23:46](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1426s) Stateful Replication - Database
