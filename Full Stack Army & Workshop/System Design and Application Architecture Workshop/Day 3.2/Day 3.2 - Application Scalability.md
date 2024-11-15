@@ -34,6 +34,8 @@
 ![[Pasted image 20241115062059.png]]
 
 ## [00:23:46](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1426s) Stateful Replication - Database
+![[Pasted image 20241115062149.png]]
+
 
 ## [00:24:55](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1495s) Master Slave (Primary Secondary)
 
