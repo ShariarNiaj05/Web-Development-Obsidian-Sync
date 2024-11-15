@@ -1,9 +1,11 @@
 ## [00:00:46](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=46s) Replication
 
 ![[Pasted image 20241114205232.png]]
-![[Pasted image 20241115055918.png]]
+
 
 ## [00:04:16](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=256s) Data Replication and Component Replication
+![[Pasted image 20241115055918.png]]
+
 ## [00:07:07](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=427s) Components
 ## [00:09:11](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=551s) Stateless Replication
 ## [00:13:06](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=786s) Stateful Replication
