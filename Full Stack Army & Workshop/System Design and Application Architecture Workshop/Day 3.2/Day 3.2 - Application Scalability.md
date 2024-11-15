@@ -39,6 +39,8 @@
 
 ## [00:24:55](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1495s) Master Slave (Primary Secondary)
 
+![[Pasted image 20241115062250.png]]
+
 ## [00:33:00](https://www.youtube.com/watch?v=H-idooje-0g&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=4&t=1980s) Master Master (Peer to Peer)
 
 
