@@ -202,11 +202,13 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "8d48f86ad19e255d",
   "lastOpenFiles": [
+    "Pasted image 20241116224011.png",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/System Design and Application Architecture Workshop.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.1/Day 3.1 - Application Scalability.md",
     "Full Stack Army & Workshop/System Design and Application Architecture Workshop/Day 3.2/Day 3.2 - Application Scalability.md",
