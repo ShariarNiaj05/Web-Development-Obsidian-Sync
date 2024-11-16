@@ -17,7 +17,7 @@
 ## [00:20:57](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1257s) Independent Services
 ![[Pasted image 20241116225449.png]]
 
-
+https://youtu.be/uS78wbh9ScI?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&t=1300
 ## [00:21:57](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1317s) Loose Coupling
 
 ## [00:23:39](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1419s) Scalability
