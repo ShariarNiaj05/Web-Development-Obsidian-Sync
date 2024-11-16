@@ -4,6 +4,7 @@
 
 ## [00:04:14](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=254s) Main Tasks
 
+![[Pasted image 20241116224040.png]]
 
 ## [00:07:16](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=436s) Small Business
 ## [00:07:45](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=465s) Individual Services
