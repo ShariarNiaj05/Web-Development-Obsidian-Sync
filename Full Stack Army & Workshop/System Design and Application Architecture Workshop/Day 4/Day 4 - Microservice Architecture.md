@@ -12,6 +12,7 @@
 
 ## [00:07:45](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=465s) Individual Services
 
+
 ## [00:20:57](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1257s) Independent Services
 
 ## [00:21:57](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1317s) Loose Coupling
