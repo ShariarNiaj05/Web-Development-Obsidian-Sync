@@ -22,6 +22,7 @@
 
 
 ## [00:23:39](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1419s) Scalability
+![[Pasted image 20241117223201.png]]
 
 ## [00:24:53](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1493s) Agility
 
