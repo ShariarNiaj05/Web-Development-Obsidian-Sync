@@ -31,6 +31,7 @@
 ![[Pasted image 20241117223318.png]]
 
 ## [00:26:31](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1591s) Streamlined Collaboration
+![[Pasted image 20241117223409.png]]
 
 ## [00:29:32](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1772s) QNA
 
