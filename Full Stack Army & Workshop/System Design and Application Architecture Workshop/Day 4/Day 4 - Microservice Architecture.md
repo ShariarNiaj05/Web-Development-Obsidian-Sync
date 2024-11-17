@@ -28,6 +28,7 @@
 ![[Pasted image 20241117223256.png]]
 
 ## [00:25:20](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1520s) Resilience
+![[Pasted image 20241117223318.png]]
 
 ## [00:26:31](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=1591s) Streamlined Collaboration
 
