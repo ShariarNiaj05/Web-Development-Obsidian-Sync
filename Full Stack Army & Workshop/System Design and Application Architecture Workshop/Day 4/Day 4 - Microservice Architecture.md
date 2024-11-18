@@ -38,6 +38,7 @@
 ![[Pasted image 20241118205319.png]]
 
 ## [00:39:10](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=2350s) Why should we migrate to microservices?
+https://youtu.be/uS78wbh9ScI?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&t=2353
 
 ## [00:45:32](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=2732s) Agility and Faster Development
 
