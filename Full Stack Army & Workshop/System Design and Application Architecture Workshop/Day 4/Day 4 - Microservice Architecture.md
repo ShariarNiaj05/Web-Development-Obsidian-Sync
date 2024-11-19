@@ -47,6 +47,7 @@
 ![[Pasted image 20241119183529.png]]
 
 ## [00:54:41](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3281s) Organizational Alignment and Ownership
+![[Pasted image 20241119184220.png]]
 
 ## [00:56:16](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3376s) Technology Flexibility and Modernization
 
