@@ -41,6 +41,7 @@
 ![[Pasted image 20241119182637.png]]
 
 ## [00:45:32](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=2732s) Agility and Faster Development
+![[Pasted image 20241119183150.png]]
 
 ## [00:49:58](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=2998s) Scalability and Resilience
 
