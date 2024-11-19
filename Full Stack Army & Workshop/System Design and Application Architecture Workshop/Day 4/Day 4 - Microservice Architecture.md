@@ -52,7 +52,9 @@
 ## [00:56:16](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3376s) Technology Flexibility and Modernization
 ![[Pasted image 20241119184743.png]]
 
+
 ## [01:01:27](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3687s) What is Service?
+![[Pasted image 20241119184943.png]]
 
 ## [01:02:15](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3735s) Key Characteristics of Service
 
