@@ -55,6 +55,7 @@
 
 ## [01:01:27](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3687s) What is Service?
 ![[Pasted image 20241119184943.png]]
+https://youtu.be/uS78wbh9ScI?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&t=3714
 
 ## [01:02:15](https://www.youtube.com/watch?v=uS78wbh9ScI&list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&index=5&t=3735s) Key Characteristics of Service
 
